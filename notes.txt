@@ -1,0 +1,14 @@
+DB= mysql
+Framework=Flask (python)
+Authentication strategy=FB Login
+
+DB Setup:
+
+First_name
+Last_name
+Email
+Zip_Code
+
+Make sure we are salting passwords and we are hashing them using mysql
+
+-finish the authentication
